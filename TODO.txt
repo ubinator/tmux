@@ -1,0 +1,2 @@
+You should keep a branch open for linkage from tmux repo. Probably the master branch right? So you should have the master on this be dedicated to the container build stuff.
+You can fork it again into another repo and use that as your base for other features that you put in that didn't get merged.
